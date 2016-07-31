@@ -187,7 +187,7 @@
 					fn.dequeue();
 				});
 			}
-		}	   
+		}
 
 		fn.init();
 	})(window);
